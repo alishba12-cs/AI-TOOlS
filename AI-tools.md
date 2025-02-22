@@ -44,9 +44,4 @@ This repository provides a curated list of the **top AI tools** currently availa
 - 🌐 [Google Bard](https://bard.google.com/)  
 - AI chatbot by Google designed for answering questions and assisting with various tasks.  
 
-## 🤖 How to Use This List  
-- Click on the links to explore the tools.  
-- Experiment with AI-driven solutions for text, design, and development.  
-- Share this repo with others who are interested in AI!  
-
-📌 **Stay updated with the latest AI advancements!**  
+ 
